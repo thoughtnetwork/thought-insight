@@ -2,7 +2,6 @@
 Create thought.conf in ~/.thoughtcore
 
 ```
-testnet=1
 server=1
 addnode=phi.thought.live
 txindex=1
@@ -28,7 +27,7 @@ Edit dashcore-node.json
       "connect": [
         {
           "rpchost": "127.0.0.1",
-          "rpcport": "11617",
+          "rpcport": "10617",
           "rpcuser": "thought",
           "rpcpassword": "local321",
           "zmqpubrawtx": "tcp://127.0.0.1:28332"
