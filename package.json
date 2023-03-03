@@ -4,7 +4,7 @@
   "license": "MIT",
   "readme": "README.md",
   "dependencies": {
-    "@dashevo/dashcore-node": "^5.0.2",
+    "@dashevo/dashcore-node": "^7.0.0",
     "@thought/insight-api": "^2.0.1",
     "@thought/insight-ui": "^2.0.0",
     "@thought/thoughtcore-lib": "^0.16.8",
